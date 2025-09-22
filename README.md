@@ -38,11 +38,11 @@ Aqui estão as ferramentas e tecnologias com as quais mais trabalho:
 ## 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GABRIEL-ATHAYDE/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athaydeabreu)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athaydegab)
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=athaydeabreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=athaydeabreu&layout=compact&langs_count=6&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=athaydegab&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=athaydegab&layout=compact&langs_count=6&theme=dark)
